@@ -50,7 +50,7 @@ public class UnitTest1
     }
 
     [Fact]
-    public void TestarDivisaoPorZero()
+    public void DeveTestarDivisaoPorZero()
     {
         Calculadora calc = new Calculadora();
 
@@ -61,7 +61,7 @@ public class UnitTest1
     }
 
     [Fact]
-    public void TestarHistoricoOperacoes()
+    public void DeveTestarHistoricoOperacoes()
     {
         Calculadora calc = new Calculadora();
 
