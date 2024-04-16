@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTddDio", "DesafioTddDio\DesafioTddDio.csproj", "{BCC0B490-E561-4A95-A535-D4A7FF970647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTddDioTests", "DesafioTddDioTests\DesafioTddDioTests.csproj", "{D1111231-7CBD-48C4-A5B2-305032C4FCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC0B490-E561-4A95-A535-D4A7FF970647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0B490-E561-4A95-A535-D4A7FF970647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0B490-E561-4A95-A535-D4A7FF970647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0B490-E561-4A95-A535-D4A7FF970647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1111231-7CBD-48C4-A5B2-305032C4FCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1111231-7CBD-48C4-A5B2-305032C4FCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1111231-7CBD-48C4-A5B2-305032C4FCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1111231-7CBD-48C4-A5B2-305032C4FCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
